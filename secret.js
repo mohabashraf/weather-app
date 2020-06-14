@@ -1,3 +1,3 @@
 const key = ''
-s
+sش
 module.exports = key
